@@ -1,0 +1,110 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.get{
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    margin: 0 auto;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.sub{
+    color: red;
+    background-color: transparent;
+    font-size: 25px;
+    padding: 10px;
+    border: 0px;
+    background-color: aliceblue;
+    margin-bottom: 20px;
+}
+
+.back{
+    background-image: url("../images/back.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background: cover;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.back2 a, .back a{
+    color: white;
+}
+
+.back2{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    background-image: url("../images/back.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background: cover;
+    padding-top: 20px;
+}
+
+.getHome{
+    text-align: center;
+    font-size: 30px;
+    color: #70d4ff;
+    margin: 0 auto;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.middle2{
+    background-image: url("../images/revenant.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background: cover;
+    height: 1000px;
+    padding-top: 20px;
+
+}
+
+.middle{
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    
+    
+}
+
+.use{
+    margin: 20px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+
+.use2{
+    margin: 10px;
+}
+
+.click{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    padding: 15px;
+    background-color: transparent;
+    color: white;
+    transition: all .9s;
+    border: 0px;
+    border-radius: 25%;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.click:hover{
+    color: #ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: aqua;
+}
+
